@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol>Ткани организма
+        <li>Нервная
+            <ul>
+                <li>Нейроны</li>
+            </ul>
+        </li>
+    <li>Мышечная
+        <ul>
+            <li>Миоциты</li>
+        </ul>
+    </li>
+    <li>Епителиальная
+        <ul>
+            <li>Плоский эпителий<ul>
+                <li>Однослойный</li>
+                <li>Многослойный</li>
+            </ul>
+
+            </li>
+            <li>Кубический эпителий</li>
+            <li>Призматический эпителий</li>
+        </ul>
+    </li>
+    <li>Соединительная
+        <dl>
+            <dt>Костная ткань
+                <dd>Остеоциты</dd>
+                <dd>Остеобласты</dd>
+                <dd>Остеокласты</dd>
+            </dt>
+            <dt>Хрящевая ткань
+                <dd>Хондробласты</dd>
+                <dd>Фибробласты</dd>
+            </dt>
+            <dt>Кровь
+                <dd>Эритроциты</dd>
+                <dd>Лейкоциты
+                    <ul>
+                        <li>Гранулоциты
+                            <ul>
+                                <li>Нейтрофилы</li>
+                                <li>Эозинофилы</li>
+                                <li>Базофилы</li>
+                            </ul>
+                        </li>
+                        <li>Агранулоциты
+                            <ul>
+                                <li>Лимфоциты</li>
+                                <li>Моноциты</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </dd>
+                <dd>Тромбоциты</dd>
+            </dt>
+        </dl>
+    </li></ol>
+</body>
+</html>
